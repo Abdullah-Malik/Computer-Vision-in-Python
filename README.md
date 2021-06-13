@@ -10,4 +10,8 @@ In this project, multiple computer vision tasks were performed on the kitty.bmp 
 The code could be run by uploading the convolution.ipynb and kitty.bmp to google.colab.com and then by running all the cells
 
 ![Screenshot](/kitty.bmp)
+![1](images/conv1.PNG)
+![2](images/conv2.PNG)
+![3](images/conv3.PNG)
+![4](images/conv.PNG)
 
